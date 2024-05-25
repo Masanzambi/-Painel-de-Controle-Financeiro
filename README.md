@@ -1,1 +1,0 @@
-﻿# -Painel-de-Controle-Financeiro
